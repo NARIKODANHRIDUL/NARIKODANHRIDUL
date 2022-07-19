@@ -1,6 +1,6 @@
 ## HELLO! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Designer;I+am+a+Free+lancer;I+am+a+Programmer;&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+NARIKODANHRIDUL;I+am+a+Designer;I+am+a+Free+lancer;I+am+a+Programmer;&center=true&width=500&height=50"></a>
 <br>
 
 ```console

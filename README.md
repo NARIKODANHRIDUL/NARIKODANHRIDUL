@@ -1,7 +1,12 @@
 ## HELLO! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
+
+<!-- TYPE WRITING --> 
+
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+NARIKODANHRIDUL;I+am+a+Designer;I+am+a+Free+lancer;I+am+a+Programmer;&center=true&width=500&height=50"></a>
 <br>
+
+<!-- DETAILS -->
 
 ```console
 NARIKODAN HRIDUL
@@ -33,24 +38,43 @@ NARIKODAN HRIDUL
                  "$$$$"             "$$$$"                     
 ```
 <br>
-<summary><b>Languages and Tools</b></summary> 
-<br>
-<p><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> 
+
+<!-- LANGUAGES AND TOOLS -->
+
+<summary><b>Languages and Tools</b></summary> <br>
+<p>
+  <!-- C + + -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <!-- TYPE WRITING -->
+  <!-- C PROGRAMMING -->
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
+  <!-- FLUTTER -->
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  <!-- GIT -->
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <!-- LINUX -->
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <!-- PYTHON -->
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> 
 
 <br>
 <summary><b>Github Profile Details</b></summary>
-
----
-
   <a href="https://github.com/NARIKODANHRIDUL">
+  <!-- A+ -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NARIKODANHRIDUL&show_icons=true&theme=blueberry&hide_border=true" />&nbsp;
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NARIKODANHRIDUL&theme=blueberry&hide_border=true" />
+  <!-- CURRENT STREAK -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NARIKODANHRIDUL&theme=blueberry&hide_border=true" />
   </a>
 
+<!-- GRAPH DAYS  -->
 [![NARIKODAN's Activity Graph](https://activity-graph.herokuapp.com/graph?username=NARIKODANHRIDUL&custom_title=NARIKODAN%20HRIDUL's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://github.com/NARIKODANHRIDUL)
+
+<!-- GRAPH IN PAST YEAR -->
 <img width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NARIKODANHRIDUL&theme=github_dark" alt="Github Profile Details" align = "center"/>
 ![](https://raw.githubusercontent.com/NARIKODANHRIDUL/NARIKODANHRIDUL/d4d07a57ad39ffe57ce0b92f5dd8b29c508a98cf/github-contribution-grid-snake.svg)
 
+<!-- LANGUAGES -->
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -87,6 +111,7 @@ NARIKODAN HRIDUL
   </a>
 </p>
 
+<!-- FRONT END -->
 <h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"> 
@@ -98,6 +123,7 @@ NARIKODAN HRIDUL
   </a>
 </p>
 
+<!-- BACK END -->
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
@@ -107,6 +133,7 @@ NARIKODAN HRIDUL
   
 </p>
 
+<!-- CLOUD AND HOSTING -->
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank">
@@ -114,6 +141,7 @@ NARIKODAN HRIDUL
   </a>
 </p>
 
+<!-- VERSION CONTROL  -->
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
   <a href="https://github.com/ELanza-48" target="_blank">
@@ -130,6 +158,7 @@ NARIKODAN HRIDUL
 </p>
 
 
+<!-- PREFERED IDEAS AND TOOLS -->
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center">
 <a href="https://code.visualstudio.com/" target="_blank">
@@ -147,12 +176,10 @@ NARIKODAN HRIDUL
   </a>
 </p>
 
-----
-
+---
 ---
 
 <p>They: <b>"You can't hear pictures"</b></p>
 <p>Me:</p>
 <br>
-
 ![Alt Text](https://thumbs.gfycat.com/DrearyPopularGrizzlybear-size_restricted.gif)

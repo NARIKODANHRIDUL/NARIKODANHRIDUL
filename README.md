@@ -39,18 +39,115 @@ NARIKODAN HRIDUL
 
 <br>
 <summary><b>Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NARIKODANHRIDUL&theme=github_dark" alt="Github Profile Details" align = "center"/></p>
+
+---
+
+  <a href="https://github.com/NARIKODANHRIDUL">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NARIKODANHRIDUL&show_icons=true&theme=blueberry&hide_border=true" />&nbsp;
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NARIKODANHRIDUL&theme=blueberry&hide_border=true" />
+  </a>
+
+[![NARIKODAN's Activity Graph](https://activity-graph.herokuapp.com/graph?username=NARIKODANHRIDUL&custom_title=NARIKODAN%20HRIDUL's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://github.com/NARIKODANHRIDUL)
+<img width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NARIKODANHRIDUL&theme=github_dark" alt="Github Profile Details" align = "center"/>
+![](https://raw.githubusercontent.com/NARIKODANHRIDUL/NARIKODANHRIDUL/d4d07a57ad39ffe57ce0b92f5dd8b29c508a98cf/github-contribution-grid-snake.svg)
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="c"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C++-A8B9CC.svg?style=for-the-badge&logo=cplusplus&logoColor=white"
+      alt="c"/>
+  </a>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/python-007396.svg?style=for-the-badge&logo=python&logoColor=white" 
+      alt="java"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/dart-3178C6.svg?style=for-the-badge&logo=dart&logoColor=white"
+      alt="typescript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Flutter-3178C6.svg?style=for-the-badge&logo=flutter&logoColor=white"
+      alt="typescript"/>
+  </a>
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      alt="react"/> 
+  <a href="https://webpack.js.org" target="_blank">
+    <img src="https://img.shields.io/badge/flutter-8DD6F9.svg?style=for-the-badge&logo=flutter&logoColor=black"
+      alt="webpack"/>
+  </a>
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="nodejs"/> 
+  </a>
+  
+</p>
+
+<h3 align="center">Cloud & Hosting:</h3>
+<p align="center">
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  </a>
+</p>
+
+<h3 align="center">Version Control & CI/CD</h3>
+<p align="center">
+  <a href="https://github.com/ELanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://gitlab.com/Elanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="git"/>
+ </a>
+</p>
 
 
-<a href="https://github.com/NARIKODANHRIDUL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARIKODANHRIDUL&theme=algolia&hide_langs_below=1" />
-</a> &ensp;
-<a href="https://github.com/NARIKODANHRIDUL">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=NARIKODANHRIDUL&show_icons=true&theme=dracula&line_height=27" alt="NERI's github stats"/>
-</a>
-<br>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NARIKODANHRIDUL&theme=dark" alt="NARIKODANHRIDUL" /></p>
+<h3 align="center">Preferred IDEs  & Tools :</h3>
+<p align="center">
+<a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/popos-10A0FF.svg?style=for-the-badge&logo=POPOS&logoColor=white" alt="postman"/>
+  </a>
+  <a href="https://www.virtualbox.org/" target="_blank">
+    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
+      alt="virtualbox"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  </a>
+</p>
+
+----
 
 ---
 

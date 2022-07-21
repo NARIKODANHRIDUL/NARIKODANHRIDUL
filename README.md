@@ -71,7 +71,7 @@ NARIKODAN HRIDUL
 [![NARIKODAN's Activity Graph](https://activity-graph.herokuapp.com/graph?username=NARIKODANHRIDUL&custom_title=NARIKODAN%20HRIDUL's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://github.com/NARIKODANHRIDUL)
 
 <!-- GRAPH IN PAST YEAR -->
-<img width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NARIKODANHRIDUL&theme=github_dark" alt="Github Profile Details" align = "center"/>
+<img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NARIKODANHRIDUL&theme=zenburn" alt="Github Profile Details" align = "center"/>
 ![](https://raw.githubusercontent.com/NARIKODANHRIDUL/NARIKODANHRIDUL/d4d07a57ad39ffe57ce0b92f5dd8b29c508a98cf/github-contribution-grid-snake.svg)
 
 <!-- LANGUAGES -->

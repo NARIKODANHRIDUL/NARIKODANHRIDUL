@@ -72,6 +72,7 @@ NARIKODAN HRIDUL
 
 <!-- GRAPH IN PAST YEAR -->
 <img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NARIKODANHRIDUL&theme=zenburn" alt="Github Profile Details" align = "center"/>
+
 ![](https://raw.githubusercontent.com/NARIKODANHRIDUL/NARIKODANHRIDUL/d4d07a57ad39ffe57ce0b92f5dd8b29c508a98cf/github-contribution-grid-snake.svg)
 
 <!-- LANGUAGES -->

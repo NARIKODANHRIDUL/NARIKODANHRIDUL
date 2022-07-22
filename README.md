@@ -114,7 +114,7 @@ NARIKODAN HRIDUL
 <h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-303030.svg?style=for-the-badge&logo=react"
+    <img src="https://img.shields.io/badge/react.js-303030.svg?style=for-the-badge&logo=react"
       alt="react"/> 
   <a href="https://flutter.dev" target="_blank">
     <img src="https://img.shields.io/badge/flutter-blue.svg?style=for-the-badge&logo=flutter"

@@ -1,7 +1,7 @@
 ---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">       
 <!-- TYPE WRITING --> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Welcome+to+my+profile+!+!+!;Heyyy!+I'm+NARIKODAN+HRIDUL;I'+am+a+3rd+yr+Undergraduate+at+Amrita;I'm+an+ANDROID+DEVELOPER;I'm+a+DESIGNER" align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Hello+world+!+!+!;Welcome+to+my+profile+!+!+!;I'm+NARIKODAN+HRIDUL;I'+am+a+3rd+yr+Undergraduate+at+Amrita;I'm+an+ANDROID+DEVELOPER;I'm+a+DESIGNER" align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">       
 
 ---

@@ -2,7 +2,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">       
 <!-- TYPE WRITING --> 
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=WELCOME+TO+MY+PROFILE+!+!+!;I+am+NARIKODANHRIDUL;I+am+a+Designer;I+am+a+Programmer;I+am+a+Android+developer;&center=true&width=500&height=50"></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Welcome+to+my+profile+!+!+!;Heyyy!+I'm+NARIKODAN+HRIDUL+:);I'+am+a+3rd+yr+Undergraduate+at+Amrita;I'm+an+ANDROID+DEVELOPER;I'm+ a DESIGNER">
+</p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">       
 

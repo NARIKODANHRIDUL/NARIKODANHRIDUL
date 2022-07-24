@@ -43,7 +43,7 @@ NARIKODAN HRIDUL
 <summary><b>Github Profile Details</b></summary>
   <p><a href="https://github.com/NARIKODANHRIDUL">
   <!-- A+ -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NARIKODANHRIDUL&show_icons=true&theme=gruvbox&hide_border=true" />&nbsp;
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NARIKODANHRIDUL&show_icons=true&theme=gruvbox&hide_border=true" />
   <!-- CURRENT STREAK -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NARIKODANHRIDUL&theme=gruvbox&hide_border=true" />
   </a></p>

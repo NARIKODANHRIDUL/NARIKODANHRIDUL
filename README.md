@@ -90,6 +90,7 @@ NARIKODAN HRIDUL
     <img src="https://img.shields.io/badge/Flutter-blue.svg?style=for-the-badge&logo=flutter"
       alt="flutter"/>
   </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/Javascript-555545.svg?style=for-the-badge&logo=javascript"
       alt="javascript"/> 
   </a>
